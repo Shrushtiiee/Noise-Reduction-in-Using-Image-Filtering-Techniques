@@ -1,4 +1,4 @@
-﻿# Noise Reduction in Large Image Dataset Using Image Filtering Techniques
+﻿# Noise Reduction Using Image Filtering Techniques
 
 ## 📌 Project Description
 
